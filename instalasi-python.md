@@ -1,5 +1,5 @@
 ![image](https://github.com/13AkmalAlf/pertemuan-1-basis-data/assets/148737219/dacb02ec-6abc-41ff-b7eb-65e803be04f6)how to install python.
-
+ 
 1. Go to the official Python download page for Windows.
 
 2. Find a stable Python 3 release. This tutorial was tested with Python version 3.12.0.
